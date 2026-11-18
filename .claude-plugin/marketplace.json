@@ -1,0 +1,12 @@
+{
+  "name": "bexven-skills",
+  "description": "Bexven's Claude Code plugins for client web design and builds",
+  "owner": { "name": "Bexven" },
+  "plugins": [
+    {
+      "name": "bexven-web",
+      "source": "./bexven-web",
+      "description": "Design and build client websites that don't look AI-made: direction, static build, Elementor build, QA."
+    }
+  ]
+}

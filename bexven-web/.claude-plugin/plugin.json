@@ -1,0 +1,7 @@
+{
+  "name": "bexven-web",
+  "version": "1.0.0",
+  "description": "Bexven web design system for Claude Code: per-client design direction (DESIGN.md), distinctive static builds, WordPress/Elementor builds and AI-tell QA.",
+  "author": { "name": "Bexven" },
+  "license": "UNLICENSED"
+}
